@@ -16,8 +16,10 @@ One can perform all types of SQL queries in the selected database and see the da
 ### If you want to try this project you can download from [here](https://github.com/MSAJAL07/GUI-for-Apache-derby-database/raw/master/gui.jar)
 
 then you have to start the java-derby server I am assuming that you already installed java derby database after running the server you can run the download file by writing this command 
-''' java
+
+``` java
 java -jar gui.jar
-'''
+```
+
 ### wWants to see the demo video [click here](https://youtu.be/g9bbZVMWen8)
-![alt tag](https://youtu.be/g9bbZVMWen8)
+
