@@ -17,7 +17,7 @@ One can perform all types of SQL queries in the selected database and see the da
 
 then you have to start the java-derby server I am assuming that you already installed java derby database after running the server you can run the download file by writing this command 
 
-``` java
+```java 
 java -jar gui.jar
 ```
 
