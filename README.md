@@ -21,5 +21,5 @@ then you have to start the java-derby server I am assuming that you already inst
 java -jar gui.jar
 ```
 
-### wWants to see the demo video [click here](https://youtu.be/g9bbZVMWen8)
+### Wants to see the demo video [click here](https://youtu.be/g9bbZVMWen8)
 
